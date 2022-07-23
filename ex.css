@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #6abadeba;
+    font-family: 'Arial';
+    background: url("g.png") 100% fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.login {
+    width: 382px;
+    overflow:visible ;
+    margin: auto;
+    padding: 100px;
+    margin: 20 20 20 450px;
+    background: #00bfff12;
+    border-radius: 22px;
+    background-image: url("");
+    scroll-behavior: auto;
+
+}
+
+h2 {
+    text-align: center;
+    color: #277582;
+    padding-top: 0%;
+}
+img {
+    width: 20%;
+    height: 20%;
+    border-radius: 50%;
+    margin-left: 35%;
+}
+
+label {
+    color: darkblue;
+    font-size: 17px;
+}
+
+#Log {
+    width: 350px;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+    padding-left: 8px;
+}
+
+#Pass {
+    width: 350px;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+    padding-left: 8px;
+}
+
+#Sub {
+    width: 365px;
+    height: 30px;
+    border: none;
+    border-radius: 17px;
+    padding-left: 7px;
+    color: whitesmoke;
+    background-color: darkblue;
+}
+
+span {
+    color: white;
+    font-size: 17px;
+}

@@ -1,0 +1,55 @@
+ <style type="text/css" media="all">
+        input[type=password] {
+            color: black;
+            width: 90%;
+            height: 5%;
+            margin: 10px;
+            display: block;
+            border-color: black;
+            border-radius: 5px;
+            border: 1px solid #555;
+        }
+        
+        input[type=password]:focus {
+            background-color: aqua;
+        }
+        
+        input[type=text] {
+            color: red;
+            width: 90%;
+            height: 5%;
+            margin: 10px;
+            display: block;
+            border-color: black;
+            border-radius: 5px;
+            border: 1px solid #555;
+        }
+        
+        input[type=text]:focus {
+            background-color: lightblue;
+            color: darkblue;
+            border: solid black;
+        }
+        
+        input[type=submit] {
+            border-color: black;
+            width: 90%;
+            height: 6%;
+            margin: 10px;
+            border: 1px solid;
+            color: whitesmoke;
+            background-color: maroon;
+        }
+        
+        .center {
+            text-align: center;
+        }
+        
+        h4 {
+            text-align: center;
+        }
+        
+        body {
+            background-color: powderblue;
+        }
+    </style>
